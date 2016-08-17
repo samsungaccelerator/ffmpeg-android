@@ -26,7 +26,6 @@ make clean
 --enable-pic \
 --enable-pthreads \
 --enable-version3 \
---enable-mediacodec \
 --enable-yasm \
 --enable-decoder=aac,h264,mpeg2video,mpeg4,mp3,mjpeg,jpeg2000,libopenjpeg,pcm_u8 \
 --enable-encoder=aac,libx264,mp3,mpeg4,image2,mjpeg,jpeg2000,libopenjpeg,pcm_u8 \
